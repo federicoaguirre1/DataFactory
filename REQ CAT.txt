@@ -1,0 +1,15 @@
+- Do you need to compare score performance for different hospitals (within one trust)? This will let me understand if the "superuser" would see only info for one hospital or would have a widder view (multiple hospital within one trust)
+
+- Do all sites have to submit a survey? In case of NO, then I would need to mark those "deactive" sites (This would also affect the "progression" indicator)
+
+- Is it important to show submited date for completed surveys?
+
+- Is it important to compare score achieve from different quarters?
+
+- Do we need to categorise range of score ? (for isntances [<60],[60-80],[80,98], [100] or graduals)
+
+- Which indicators do you think should be shown in the main page ?
+
+- Is it important to analise historical score from previous quarters for one site/department/hospital?
+
+- for any request/proposal we need to understand the level of granularity considered.
